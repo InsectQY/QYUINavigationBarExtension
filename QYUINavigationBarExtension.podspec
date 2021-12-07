@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
   You dont have to worry about system compatibility.
                        DESC
 
-  s.homepage         = 'https://github.com/insect/QYUINavigationBarExtension'
+  s.homepage         = 'https://github.com/InsectQY/QYUINavigationBarExtension'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'insect' => '704861917@qq.com' }
-  s.source           = { :git => 'https://github.com/insect/QYUINavigationBarExtension.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/InsectQY/QYUINavigationBarExtension', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
