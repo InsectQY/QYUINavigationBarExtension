@@ -110,7 +110,9 @@ public extension UINavigationBarWrapper where Base: UINavigationBar {
         if #available(iOS 13.0, *) {
 
             if isTransparent {
+                base.isHidden = true
                 standardAppearance.configureWithTransparentBackground()
+                base.isHidden = false
             } else {
                 standardAppearance.configureWithDefaultBackground()
             }
