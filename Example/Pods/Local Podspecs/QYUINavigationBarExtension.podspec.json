@@ -1,0 +1,22 @@
+{
+  "name": "QYUINavigationBarExtension",
+  "version": "0.1.0",
+  "summary": "A handy collection of UINavigationBar categories.",
+  "description": "Easy to set backgroundColor, backgroundImage, titleTextAttributes, transparent property of UINavigationBar.\nYou dont have to worry about system compatibility.",
+  "homepage": "https://github.com/insect/QYUINavigationBarExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "insect": "704861917@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/insect/QYUINavigationBarExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QYUINavigationBarExtension/Classes/**/*"
+}

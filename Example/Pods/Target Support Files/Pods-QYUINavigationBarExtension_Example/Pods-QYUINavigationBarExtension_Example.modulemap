@@ -1,0 +1,6 @@
+framework module Pods_QYUINavigationBarExtension_Example {
+  umbrella header "Pods-QYUINavigationBarExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QYUINavigationBarExtension_Example' do
+  pod 'QYUINavigationBarExtension', :path => '../'
+
+  target 'QYUINavigationBarExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

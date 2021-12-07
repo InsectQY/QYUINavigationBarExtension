@@ -1,0 +1,16 @@
+PODS:
+  - QYUINavigationBarExtension (0.1.0)
+
+DEPENDENCIES:
+  - QYUINavigationBarExtension (from `../`)
+
+EXTERNAL SOURCES:
+  QYUINavigationBarExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QYUINavigationBarExtension: 4a15982c86dbb7976ad3a56c0af860feb2e514bc
+
+PODFILE CHECKSUM: b8ea327de30d73bba94e68e16f22528556d1ac0e
+
+COCOAPODS: 1.11.2
