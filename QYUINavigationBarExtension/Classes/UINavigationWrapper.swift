@@ -8,7 +8,7 @@
 
 import Foundation
 
-public class UINavigationBarWrapper<Base> {
+public class UINavigationWrapper<Base> {
     
     let base: Base
 

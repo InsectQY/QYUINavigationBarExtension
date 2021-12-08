@@ -1,5 +1,5 @@
 PODS:
-  - QYUINavigationBarExtension (0.1.0)
+  - QYUINavigationBarExtension (1.0.0)
 
 DEPENDENCIES:
   - QYUINavigationBarExtension (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  QYUINavigationBarExtension: 4a15982c86dbb7976ad3a56c0af860feb2e514bc
+  QYUINavigationBarExtension: 503bfd7415e46f64da94dfa9f342f1e18d7edd95
 
 PODFILE CHECKSUM: b8ea327de30d73bba94e68e16f22528556d1ac0e
 

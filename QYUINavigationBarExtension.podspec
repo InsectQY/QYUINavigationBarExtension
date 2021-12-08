@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QYUINavigationBarExtension'
-  s.version          = '0.2.0'
+  s.version          = '1.0.0'
   s.summary          = 'A handy collection of UINavigationBar categories.'
 
 

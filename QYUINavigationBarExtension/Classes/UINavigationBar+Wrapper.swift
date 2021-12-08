@@ -30,7 +30,7 @@
 
 import UIKit
 
-public extension UINavigationBarWrapper where Base: UINavigationBar {
+public extension UINavigationWrapper where Base: UINavigationBar {
 
     /* You may specify the font, text color, and shadow properties for the title in the text attributes dictionary, using the keys found in NSAttributedString.h.
      */

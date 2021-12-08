@@ -7,12 +7,17 @@
 //
 
 import UIKit
+import QYUINavigationBarExtension
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        navigationController?.navigationBar.qy.titleTextAttributes = [.foregroundColor: UIColor.white];
+        navigationController?.navigationBar.qy.backgroundColor = .white;
+        navigationController?.navigationBar.qy.backgroundImage = UIImage(named: "")
+        navigationController?.qy.setIsTransparent(true)
     }
 }
 
