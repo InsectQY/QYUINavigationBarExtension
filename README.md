@@ -1,7 +1,8 @@
 # QYUINavigationBarExtension
 
 A handy collection of UINavigationBar categories.
-[![Version](https://img.shields.io/cocoapods/v/QYUINavigationBarExtension.svg?style=flat)](https://cocoapods.org/pods/QYUINavigationBarExtension)
+
+# [![Version](https://img.shields.io/cocoapods/v/QYUINavigationBarExtension.svg?style=flat)](https://cocoapods.org/pods/QYUINavigationBarExtension)
 [![License](https://img.shields.io/cocoapods/l/QYUINavigationBarExtension.svg?style=flat)](https://cocoapods.org/pods/QYUINavigationBarExtension)
 [![Platform](https://img.shields.io/cocoapods/p/QYUINavigationBarExtension.svg?style=flat)](https://cocoapods.org/pods/QYUINavigationBarExtension)
 
